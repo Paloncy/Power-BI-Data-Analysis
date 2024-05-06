@@ -1,2 +1,2 @@
 # Power-BI-Data-Analysis---Life-Expectancy
-To be able to understand the complexities that surround life expectancy, we will be breaking down the multifaceted factors in our analysis. We will be asking the Life Expectancy Dataset several business intelligence questions and trying to provide answers which will provide much needed insight. We aim to achieve this insight by exploring several KPIs, through patterns, trends and determinants in order to gain a comprehensive understanding of the dynamics of society, acknowledge areas of the economic systems that are related to life expectancy that requires improvements, and overall interventions which could improve the quality of life and increase average life expectancy. 
+
